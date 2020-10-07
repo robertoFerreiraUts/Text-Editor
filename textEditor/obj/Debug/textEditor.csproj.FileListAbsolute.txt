@@ -1,0 +1,13 @@
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.csprojAssemblyReference.cache
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.Login.resources
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.NewUser.resources
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.Properties.Resources.resources
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.csproj.GenerateResource.cache
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.csproj.CoreCompileInputs.cache
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\bin\Debug\textEditor.exe.config
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\bin\Debug\textEditor.exe
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\bin\Debug\textEditor.pdb
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.exe
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.pdb
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.textEditor.resources
+G:\My Drive\uni\year_2\sem2\dotNet\textEditor\textEditor\textEditor\obj\Debug\textEditor.About.resources
